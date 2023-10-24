@@ -9,4 +9,4 @@ For the majority of my life, I have always found ways to stay active. Starting i
 
 
 
-![running](/assets/images/running.png)
+![running](assets/images/running.png)
