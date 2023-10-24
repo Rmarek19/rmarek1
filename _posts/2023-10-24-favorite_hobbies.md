@@ -9,4 +9,5 @@ For the majority of my life, I have always found ways to stay active. Starting i
 
 
 
-![running](/assets/images/running.png)
+![image](https://github.com/Rmarek19/rmarek1/assets/147559303/791afd4d-429d-4f53-8a28-20dc84f90a4e)
+
